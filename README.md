@@ -38,8 +38,8 @@ My Genericaly MSM8916 Modem with Telkomsel labled 🔥🌱
 ## 🧠 3. Memory (eMCP - embedded Multi-Chip Package)
 - **SK Hynix H9TQ32A4GTMCUR-KUM**
   - Combines:
-    - **4 GB LPDDR3 RAM**
-    - **4 GB eMMC Flash Storage**
+    - **512 MB LPDDR3 RAM**
+    - **8 GB eMMC Flash Storage**
   - All in one stacked BGA chip
   - Same type used in Android phones (2015–2016 era)
 
