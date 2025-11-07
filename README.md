@@ -47,8 +47,7 @@ My Genericaly MSM8916 Modem with Telkomsel labled 🔥🌱
 
 ## 💻 4. System / Firmware
 - Closed firmware, **not flashable** or bootloader-unlocked
-- No Linux / OpenWrt support out of the box
-- No known root, UART, or console access
+- No known ABD for other android os, UART, or console access, except ssh, telnet, unix port
 - Functions only as a **plug-and-play USB modem**
 
 ---
@@ -60,10 +59,10 @@ My Genericaly MSM8916 Modem with Telkomsel labled 🔥🌱
 | Download Speed      | 150 Mbps (theoretical)                |
 | Upload Speed        | 50 Mbps (theoretical)                 |
 | Real-world Speed    | ~10–50 Mbps                          |
-| RAM                 | 4 GB LPDDR3                           |
-| Storage             | 4 GB eMMC (usable ~3.7 GiB)           |
-| OS / System         | Embedded firmware (not user modifiable) |
-| Hardware Class      | Entry-level smartphone (2015–2016 era) |
+| RAM                 | 512Mb LPDDR3                           |
+| Storage             | 8 GB eMMC (usable ~7.9 GiB)           |
+| OS / System         | Android 4.1 (Kitkat) |
+| Hardware Class      | Entry-level smartphone (2012–2016 era) |
 
 ---
 
