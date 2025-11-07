@@ -47,7 +47,7 @@ My Genericaly MSM8916 Modem with Telkomsel labled 🔥🌱
 
 ## 💻 4. System / Firmware
 - Closed firmware, **not flashable** or bootloader-unlocked
-- No known ABD for other android os, UART, or console access, except ssh, telnet, unix port
+- No known ADB host/receiver for other android os, UART, or console access, except ssh, telnet, unix port
 - Functions only as a **plug-and-play USB modem**
 
 ---
@@ -73,7 +73,7 @@ My Genericaly MSM8916 Modem with Telkomsel labled 🔥🌱
 - ⚠️ Best used for simple internet access via PC/router USB port
 
 If you're looking for a rootable, hackable LTE modem with Linux/OpenWrt potential, look for:
-- **MiFi with OpenWrt support**
+- **MiFi with OpenWrt support + PostmarketOS Mainline support**
 - Devices based on **Qualcomm QCA9531**, **MediaTek MT7620**, or **Huawei E5577s** (some variants)
 
 # Picture modem
